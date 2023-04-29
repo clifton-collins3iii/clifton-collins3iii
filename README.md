@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clifton-collins3iii
 - 👀 I’m interested in grading
-- 🌱 I’m currently learning electron
+- 🌱 I’m currently learning ~~electron~~
 - 💞️ I’m looking to collaborate on nothing at this time
 - 📫 How to reach me here
 
